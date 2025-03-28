@@ -1,0 +1,96 @@
+3. Pessoa 3 - Pesquisa e Conteúdo: Fases do Ciclo de Vida
+Responsabilidade: Pesquisar sobre as fases do ciclo de vida de sistemas de software e escrever o conteúdo sobre elas.
+Tarefa: Detalhar as fases como Planejamento, Análise, Projeto, Implementação, Testes, Manutenção e Descontinuação, explicando cada uma delas.
+
+Resposta:
+
+Existem 7 fases no ciclo de vida de um sistema moderno
+
+Fases: 
+
+1. Planejamento
+2. Viabilidade ou requisitos de Análise
+3. Design e prototipação
+4. Desenvolvimento do software
+5. Teste do software
+6. Implementação e integração
+7. Manutenção
+
+Planejamento
+
+Antes de planejar um sistema, a primeira coisa a se fazer é entender *como o SDLC* funciona*
+
+A fase de planejamento (Ou viabilidade) ajuda a **definir o problema a ser resolvido, o escopo e os objetivos** de qualquer tipo de sistema, seja software, mobile ou web   
+Desenvolver um esboço eficaz é resolver os possíveis problemas que podem aparecer posteriormente
+Ajuda a **alocar recursos e tempo necessário** para o projeto sair do papel
+Talvez o **mais importante** seja o **prazo**, se por exemplo estivermos falando de um produto comercial que precisa ser enviado ao mercado em poucos dias, precisamos de um prazo curto que muitas vezes é estourado
+
+SDLC* = System Development life cycle
+Análise
+
+Na análise, o foco é entender e documentar os requisitos do sistema, isso reunir informações do cliente, revisar processos atuais e identificar necessidades ou carências do sistema, os dados coletados são usados para a base do projeto que aborda expectativas e desafios
+
+Além disso, normalmente desenvolvedores criam especificação de requisitos. Isso inclui todos os requisitos de rede, hardware e rede para o projeto funcionar, isso é feito para garantir que prazo e orçamento sejam respeitados
+
+Design
+
+É a tradução dos dados encontrados em formato de documento SRS* em uma estrutura lógica que posteiormente deve ser traduzida para uma linguagem de programação incluindo  
+- arquitetura do sistema
+- Interface do usuário
+- rede e requisitos de rede
+- componentes do sistema
+- modelo de banco de dados
+
+Essa fase costuma terminar em uma estrutura técnica preparada para o desenvolvimento e Implementação
+
+SRS*: Software requirements specification - é a descrição abrangente do propósito e ambiente do desenvolvimento. O arquivo SRS especifica tudo que o software deve fazer e como, planos de operação, teste e manutenção são elaborados para auxiliar os desenvolvedores
+
+Desenvolvimento
+
+fase onde os desenvolvedores começam a escrever código com base nos requisitos e design apresentados.
+Desenvolvedores usam convenções de linguagem e ferramentas de desenvolvimento como compiladores, debugadores e interpretadores
+linguagens mais usadas são C, C++, PHP e Python. A linguagem deve ser escolhida com base nas especificações, requisitos e objetivos do projeto
+Essa fase também inclui um teste interno inicial para garantir que as funções descritas na fase de design são atendidas
+
+Fase de Testes
+
+Agora o software desenvolvido deve ser testado para garantir que não existem bugs e que a experiência do usuário (UX) não vai ser negativa
+Nessa fase os desenvolvedores testam cada parte do código com cuidado, encontrando bugs ou defeitos que vão ser consertados, depois o software é testado de novo
+Os principais testes são:
+- teste de integração*
+- teste de sistema**
+- aceitação do usuário
+
+É importante que o software atenda aos requisitos apresentados no documento SRS 
+Dependendo da habilidade do desenvolvedor, da complexidade e dos requisitos do site para o usuário final, a fase de teste pode durar muito tempo ou pouco tempo
+
+teste de integração*: Um projeto consiste em vários módulos codificado por várias pessoas, o objetivo do teste é garantir que todos os módulos estejam sincronizados
+teste de sistema**: avaliar como os componentes do projeto interagem em um sistema integrado
+Implementação e integração
+Depois do teste, o design geral é reunido. Módulos de design são integrados ao código-fonte pelos desenvolvedores
+as atividades principais desse estágio são:
+- instalação
+- migração de dados*
+- treinamento de usuários
+- configuração de infraestrutura
+
+A partir dessa fase, o software está pronto para a produção
+
+
+migração de dados*: processo de transferir dados de um sistema de armazenamento para outro
+Manutenção
+O trabalho não termina depois do produto chegar ao mercado. Agora os desenvolvedores precisam garantir a manutenção e a correção de possíveis bugs encontrados pelo usuário
+Depois do lançamento, os desenvolvedores são responsáveis por alterações posteriores, isso inclui mas não se limita a correção de bugs que não foram corrigidos no lançamento, melhorias de performance, pacotes de segurança e resposta ao feedback. A manutenção é feita para garantir que o sistema se mantenha vivo e não caia em desuso nem seja comprometido.
+Sistemas maiores precisam de muito mais manutenção em comparação com sistemas menores
+
+
+
+
+
+fontes:
+https://www.clouddefense.ai/system-development-life-cycle/
+https://www.geeksforgeeks.org/system-development-life-cycle/
+https://www.techtarget.com/searchsoftwarequality/definition/software-requirements-specification
+https://www.ibm.com/think/topics/data-migration
+https://www.guru99.com/pt/integration-testing.html
+https://www.lambdatest.com/learning-hub/system-testing

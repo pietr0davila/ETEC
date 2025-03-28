@@ -1,0 +1,15 @@
+Entidade
+
+1. biblioteca
+2. livros
+3. acervo
+4. empréstimo
+5. usuário
+6. cursos
+7. palestras
+8. atividade educativa
+9. espaço de leitura
+10. consultoria bibliográfica
+11. livro digital
+12. oficina
+13. bibliotecários
